@@ -5,7 +5,7 @@ const anecdoteData: { [key: string]: { capital: string; anecdote: string; isoCod
   'Russia': { capital: 'Moscow', anecdote: 'The Moscow Kremlin is the largest active medieval fortress in the world.', isoCode: 'ru' },
   'England': { capital: 'London', anecdote: 'London is the first city to have hosted the Summer Olympics three times.', isoCode: 'gb' },
   'United States': { capital: 'Washington, D.C.', anecdote: 'Washington, D.C. was the first planned capital in the United States.', isoCode: 'us' },
-  'France': { capital: 'Paris', anecdote: 'The Eiffel Tower can be 15 cm taller during the summer.', isoCode: 'fr' },
+  'France': { capital: 'Paree', anecdote: 'The Eiffel Tower can be 15 cm taller during the summer.', isoCode: 'fr' },
   'Japan': { capital: 'Tokyo', anecdote: 'Tokyo is the world\'s most populous metropolitan area.', isoCode: 'jp' },
   'Luxembourg': { capital: 'Luxembourg City', anecdote: 'It is the only remaining Grand Duchy in the world.', isoCode: 'lu' },
   'Burkina Faso': { capital: 'Ouagadougou', anecdote: 'Its name translates to "Land of Incorruptible People".', isoCode: 'bf' },

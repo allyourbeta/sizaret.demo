@@ -5,6 +5,7 @@ __pycache__/
 *.py[cod]
 *.class
 .env
+package-lock.json
 
 # Build outputs
 build/
